@@ -1,4 +1,4 @@
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y  Sabo - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -10,7 +10,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
-// • Sabo (Beban)
+// • Sabo (Creator This Bot)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
