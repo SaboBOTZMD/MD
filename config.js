@@ -59,9 +59,9 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285692305785'
+global.nomorbot = '6288976956307'
 global.nomorown = '628815952469'
-global.namebot = 'Sabo Botz'
+global.namebot = 'Sabo - MD'
 global.nameown = 'Sabo - Sama'
 
 
