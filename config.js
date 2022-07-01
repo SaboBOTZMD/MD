@@ -1,4 +1,4 @@
-// M A D E  B Y  Sabo - Sama 🐰  
+// M A D E  B Y  R E X X I N 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -10,7 +10,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
-// • Sabo (Creator This Bot)
+// • Rexxin (Creator This Bot)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -44,36 +44,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/dzycassano'
-global.sgh = '-'
+global.sig = '-'
+global.sgh = 'https://github.com/RexxinOfficial'
 global.sgc = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/364296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0821-4520-3493'
+global.pdana = '0813-1754-9796'
 global.povo = '-'
-global.pgopay = '0821-4520-3493'
-global.ppulsa = '0821-4520-3493'
+global.pgopay = '0813-1754-9796'
+global.ppulsa = '0813-1754-9796'
 global.ppulsa2 = '-'
-global.psaweria = '-'
+global.psaweria = 'https://saweria.co/rexxinofc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288976956307'
-global.nomorown = '628815952469'
-global.namebot = 'Sabo - MD'
-global.nameown = 'Sabo - Sama'
+global.nomorbot = '6281564663825'
+global.nomorown = '6281317549796'
+global.namebot = 'Rexxin - MD'
+global.nameown = 'Rexxin Official'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628815952469'],
-  ['628815952469'],
-  ['628815952469'],
-  ['628815952469', 'Sabo - Sama', true]
+  ['6281317549796'],
+  ['6281317549796'],
+  ['6281317549796'],
+  ['6281317549796', 'Sabo - Sama', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['628815952469','6282145203493'] // Want some help?
+global.mods = ['6281317549796','6281564663825'] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sabo Botz 」' //Main Watermark
-global.wm2 = 'Sabo Botz'
-global.wm3 = 'Sabo Botz'
+global.wm = '                「 Rexxin - MD 」' //Main Watermark
+global.wm2 = 'Rexxin - MD'
+global.wm3 = 'Rexxin - MD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
@@ -189,9 +189,9 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = ''
-global.stickauth = `Created By Sabo`
+global.stickauth = `Created By Rexxin`
 
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 69 // The higher, The harder levelup
 
 /*============== EMOJI ==============*/
 global.rpg = {
